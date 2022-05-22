@@ -19,8 +19,7 @@ MediaPipe offers cross-platform, customizable ML solutions for live and streamin
 4. [Pose](https://github.com/HanifaElahi/Mediapipe/blob/main/Pose_Mediapipe.ipynb)
 5. [Holistic](https://github.com/HanifaElahi/Mediapipe/blob/main/Holistic_Mediapipe.ipynb)
 6. [Selfie Segmentation](https://github.com/HanifaElahi/Mediapipe/blob/main/Selfie_Segmentation_Mediapipe.ipynb)
-7. [Objectron_Shoes]()
-8. [Objectron_Camera]()
+7. [Project]()
 
 
 ###### Source:
